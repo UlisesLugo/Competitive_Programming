@@ -1,5 +1,5 @@
 # Competitive-Programming
-Solutions for a variety of problems in different coding judges.
+Solutions for a variety of problems in the caribean judge.
 
 
 Hope you enjoy it.
